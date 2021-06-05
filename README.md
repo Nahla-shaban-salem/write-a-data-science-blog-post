@@ -1,10 +1,11 @@
 # write-a-data-science-blog-post
 
+# Project Motivation
 This project (Write a Data Science Blog Post) is part of Udacity Data Scientists Nanodegree Program.
 
 I used "listings.csv" data set from Seattle Airbnb Open Data , here's the link for it in kaggle :https://www.kaggle.com/airbnb/seattle.
 
-# This project focuses on answering following questions:
+This project focuses on answering following questions:
 
 1- what's the relationship between scores cleanliness and scores rating?
 
