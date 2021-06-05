@@ -26,3 +26,7 @@ This project focuses on answering following questions:
 4-seaborn
 
 5-sklearn
+
+# Code
+
+Kindly use the following link, to check code: https://github.com/Nahla-shaban-salem/write-a-data-science-blog-post/blob/main/write%20a%20data%20science%20blog%20post.ipynb
