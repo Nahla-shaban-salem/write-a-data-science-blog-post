@@ -30,3 +30,6 @@ This project focuses on answering following questions:
 # Code
 
 Kindly use the following link, to check code: https://github.com/Nahla-shaban-salem/write-a-data-science-blog-post/blob/main/write%20a%20data%20science%20blog%20post.ipynb
+
+# Medium Blog Post
+Here is the Medium blog post I have written:https://medium.com/@nahlasalem96/data-exploration-on-seattle-airbnb-dataset-from-kaggle-6f08b1fa017a
