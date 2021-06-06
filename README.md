@@ -3,7 +3,7 @@
 # Project Motivation
 This project (Write a Data Science Blog Post) is part of Udacity Data Scientists Nanodegree Program.
 
-I used "listings.csv" data set from Seattle Airbnb Open Data , here's the link for it in kaggle :https://www.kaggle.com/airbnb/seattle.
+I used "listings.csv" data set from Seattle Airbnb Open Data .
 
 This project focuses on answering following questions:
 
@@ -33,3 +33,8 @@ Kindly use the following link, to check code: https://github.com/Nahla-shaban-sa
 
 # Medium Blog Post
 Here is the Medium blog post I have written:https://medium.com/@nahlasalem96/data-exploration-on-seattle-airbnb-dataset-from-kaggle-6f08b1fa017a
+
+# Acknowledgments
+
+Must give credit to kaggle for the data. You can find the Licensing for the data and other descriptive information at the Kaggle link available here: https://www.kaggle.com/airbnb/seattle
+
