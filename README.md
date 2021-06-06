@@ -36,5 +36,5 @@ Here is the Medium blog post I have written:https://medium.com/@nahlasalem96/dat
 
 # Acknowledgments
 
-Must give credit to kaggle for the data. You can find the Licensing for the data and other descriptive information at the Kaggle link available here: https://www.kaggle.com/airbnb/seattle
+Must give credit to kaggle for the data. You can find the Licensing for the data and other descriptive information at the Kaggle link available here: https://www.kaggle.com/airbnb/seattle 
 
